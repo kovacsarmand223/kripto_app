@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KriptoApp</string>
+    <string name="regisztr_l_s">Regisztrálás</string>
+    <string name="emailc_m">Emailcím</string>
+    <string name="jelsz">jelszó</string>
+    <string name="jelszo">Jelszó</string>
+    <string name="regisztralok">Regisztrálok</string>
+    <string name="mar_van_fiokod">Már van fiókod? Jelentkezz be</string>
+    <string name="bejelentkezes">Bejelentkezés</string>
+    <string name="nincs_meg_fiokod">Nincs még fiókod?</string>
+    <string name="regisztralj">Regisztrálj!</string>
+</resources>
